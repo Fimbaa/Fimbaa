@@ -1,7 +1,8 @@
 # <a href="https://www.linkedin.com/in/fimba-a-eze/">Fimba Eze</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
-
+I’m passionate about building secure systems — whether that means strengthening cloud defences, improving SIEM alerts, or conducting internal scans to identify risks before attackers do. I have a strong focus on vulnerability management, threat detection, and cloud security, with hands-on experience using Microsoft Sentinel, Tenable, and Microsoft Defender for Endpoint. I also utilize KQL to develop insightful dashboards and advanced threat-hunting scenarios that enhance visibility and automate response processes.
+I hold a B.Tech in Biomedical Technology/Engineering, a Postgraduate Certificate in Process Quality Engineering, and a Postgraduate Certificate in Cybersecurity. I’m also certified in CompTIA Security+, Microsoft SC-200 (Security Operations Analyst), and AZ-900 (Azure Fundamentals).
+I continually develop and hone my technical skills through hands-on labs and real-world projects. For me, security is about staying one step ahead — learning every day, sharing knowledge, and helping teams close risks before they turn into incidents.
 
 ## ⚠️ Vulnerability Management Projects
 
